@@ -1,6 +1,6 @@
 # File Metadata Microservice
 
-upload files and save it server
+upload files and save it in server.
 
 Example:
 Press <Browse> button and choose your file then press <Upload> button.
